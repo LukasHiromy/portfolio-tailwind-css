@@ -122,7 +122,7 @@ contactForm.addEventListener('submit', function (e) {
         })
         .then(() => {
             loader.style.display = "none";
-            window.location.href = "/thankyou";
+            window.location.href = "https://lukashiromy.github.io/portfolio-tailwind-css/thankyou";
         })
         .catch((e) => alert("Terjadi masalah saat mengirim pesan"));
     } else {

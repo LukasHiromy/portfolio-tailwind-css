@@ -592,16 +592,16 @@ video {
   right: 1rem;
 }
 
+.right-9 {
+  right: 2.25rem;
+}
+
 .top-0 {
   top: 0px;
 }
 
 .top-full {
   top: 100%;
-}
-
-.right-6 {
-  right: 1.5rem;
 }
 
 .z-10 {
